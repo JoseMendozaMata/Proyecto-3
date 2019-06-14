@@ -5,4 +5,4 @@ Continuación del repositorio FormulaE-Proy2, se crea una interfaz que simula un
 * Librerías utilizadas: Tkinter, mtTkinter
 * Créditos: Santiago Gamboa, proveer el módulo WifiClient para el presente proyecto
 * Ruta de git del autor del WifiClient:  https://github.com/santigr17/FormulaE_CE_TEC-
-* Ruta del video (documentación del proyecto): 
+* Ruta del video (documentación del proyecto): https://www.powtoon.com/online-presentation/bWmGEUIMXhN/?mode=movie
