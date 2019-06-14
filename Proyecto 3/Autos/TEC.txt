@@ -1,0 +1,1 @@
+TEC,FormulaTec,Costa Rica,tec.jpg,2019,4,4,36,disponible,32L/km,luz y batería,1200,84

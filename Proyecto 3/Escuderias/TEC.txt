@@ -1,0 +1,1 @@
+TEC,tec.png,Costa Rica,ITCR
