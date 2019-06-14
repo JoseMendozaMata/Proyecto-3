@@ -3,6 +3,9 @@ Continuación del repositorio FormulaE-Proy2, se crea una interfaz que simula un
 
 * Versión de Python 3.7
 * Librerías utilizadas: Tkinter, mtTkinter
-* Créditos: Santiago Gamboa, proveer el módulo WifiClient para el presente proyecto
+* Créditos: - Santiago Gamboa, proveer el módulo WifiClient para el presente proyecto
+            
+* Autores del proyecto: - Fátima Leiva Chinchilla
+                        - José Fabián Mendoza Mata
 * Ruta de git del autor del WifiClient:  https://github.com/santigr17/FormulaE_CE_TEC-
 * Ruta del video (documentación del proyecto): https://www.powtoon.com/online-presentation/bWmGEUIMXhN/?mode=movie
